@@ -1,6 +1,6 @@
 [package]
 name = "rusty_utilities"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Nessan Fitzmaurice <nzznfitz+gh@icloud.com>"]
 description = "Another small library of Rust utilities"
