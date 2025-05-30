@@ -45,4 +45,4 @@ You can use this software under the [MIT License][mit-license]
 
 <!-- Documentation Links -->
 
-[`Stopwatch`]: https://docs.rs/rusty_utilities/latest/rusty_utilities/Stopwatch "The `Stopwatch` type"
+[`Stopwatch`]: https://docs.rs/rusty_utilities/latest/rusty_utilities/stopwatch/struct.Stopwatch.html "The `Stopwatch` type"
