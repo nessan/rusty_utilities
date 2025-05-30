@@ -1,0 +1,11 @@
+[package]
+name = "rusty_utilities"
+version = "0.1.0"
+edition = "2024"
+authors = ["Nessan Fitzmaurice <nzznfitz+gh@icloud.com>"]
+description = "Another small library of Rust utilities"
+license = "MIT"
+repository = "https://github.com/nessan/rusty_utilities"
+readme = "README.md"
+keywords = ["utilities", "stopwatch", "tools"]
+categories = ["utilities"]
