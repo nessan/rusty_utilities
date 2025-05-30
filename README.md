@@ -34,7 +34,7 @@ You can use this software under the [MIT License][mit-license]
 [docs_link]: https://docs.rs/rusty_utilities/latest/rusty_utilities "Documentation"
 [docs_img]: https://img.shields.io/docsrs/rusty_utilities/latest.svg?style=for-the-badge "Documentation Display"
 [downloads_img]: https://img.shields.io/crates/dv/rusty_utilities.svg?style=for-the-badge "Crate Downloads"
-[license_file]: https://github.com/nessan/blob/master/rusty_utilities/LICENSE.txt "License File"
+[license_file]: https://github.com/nessan/rusty_utilities/blob/main/LICENSE.txt "License File"
 [license_img]: https://img.shields.io/crates/l/rusty_utilities.svg?style=for-the-badge "License Display"
 [version_img]: https://img.shields.io/crates/v/rusty_utilities?color=f46623&style=for-the-badge "rusty_utilities version badge"
 
